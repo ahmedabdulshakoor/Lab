@@ -1,0 +1,7 @@
+λ npm init
+λ npm install express --save
+λ npm install -g nodemon
+
+
+
+ng new client && cd client && ng serve

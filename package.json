@@ -1,0 +1,30 @@
+{
+  "name": "app1",
+  "version": "1.0.0",
+  "description": "Mean stack with angular 7",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedabdulshakoor/Lab.git"
+  },
+  "keywords": [
+    "Mean",
+    "stack",
+    "angular",
+    "7",
+    "application"
+  ],
+  "author": "Ahmed abdul shakour",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmedabdulshakoor/Lab/issues"
+  },
+  "homepage": "https://github.com/ahmedabdulshakoor/Lab#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.3.6"
+  }
+}
